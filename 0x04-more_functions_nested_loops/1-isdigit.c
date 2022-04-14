@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isdigit - if is a digit
  *@c: print int
@@ -15,4 +16,5 @@ return (1);
 else
 {
 return (0);
+}
 }
